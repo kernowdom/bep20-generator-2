@@ -37,17 +37,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tokencenter/bep20-generator.git"
+    "url": "https://github.com/kernowdom/bep20-generator.git"
   },
-  "homepage": "https://tokencenter.github.io/bep20-generator",
+  "homepage": "https://kernowdom.github.io/bep20-generator",
   "bugs": {
-    "url": "https://github.com/tokencenter/bep20-generator/issues"
+    "url": "https://github.com/kernowdom/bep20-generator/issues"
   },
-  "author": "TokenCenter",
+  "author": "kernowdom",
   "contributors": [
     {
-      "name": "TokenCenter",
-      "url": "https://github.com/tokencenter"
+      "name": "kernowdom",
+      "url": "https://github.com/kernowdom"
     }
   ],
   "license": "MIT",
