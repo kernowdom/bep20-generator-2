@@ -1,5 +1,5 @@
 {
-  "name": "bep20-generator",
+  "name": "bep20-generator2",
   "version": "2.0.0",
   "description": "The new Smart Contract Generator for BEP20 Token.",
   "files": [
@@ -37,11 +37,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kernowdom/bep20-generator.git"
+    "url": "https://github.com/kernowdom/bep20-generator2.git"
   },
-  "homepage": "https://kernowdom.github.io/bep20-generator",
+  "homepage": "https://kernowdom.github.io/bep20-generator2",
   "bugs": {
-    "url": "https://github.com/kernowdom/bep20-generator/issues"
+    "url": "https://github.com/kernowdom/bep20-generator2/issues"
   },
   "author": "kernowdom",
   "contributors": [

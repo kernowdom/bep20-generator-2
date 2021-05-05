@@ -4,12 +4,12 @@ pragma solidity ^0.8.0;
 
 /**
  * @title GeneratorCopyright
- * @author BEP20 Generator (https://vittominacori.github.io/bep20-generator)
+ * @author BEP20 Generator (https://vittominacori.github.io/bep20-generator2)
  * @dev Implementation of the GeneratorCopyright
  */
 contract GeneratorCopyright {
 
-    string private constant _GENERATOR = "https://vittominacori.github.io/bep20-generator";
+    string private constant _GENERATOR = "https://vittominacori.github.io/bep20-generator2";
     string private _version;
 
     constructor (string memory version_) {
